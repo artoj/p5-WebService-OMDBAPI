@@ -1,0 +1,15 @@
+Build.PL
+Changes
+lib/WebService/OMDBAPI.pm
+Makefile.PL
+MANIFEST
+META.yml
+META.json
+README
+t/00-load.t
+t/01-api.t
+t/10-request.t
+t/11-search.t
+t/12-get.t
+t/20-pod.t
+t/21-pod-coverage.t
